@@ -1,3 +1,4 @@
+<image align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif">
 <h1 align="center">Hi 👋, I'm sourav</h1>
 <h3 align="center">A passionate frontend web-developer and java codder from India</h3>
 <image align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
