@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://twitter.com/@dalairoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@dalairoy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sourav roy dalai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sourav roy dalai" height="30" width="40" /></a>
-<a href="https://instagram.com/sourav_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sourav_99" height="30" width="40" /></a>
+<a href="https://instagram.com/sorav_eon_royal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sorav_eon_royal" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sourav dalai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sourav dalai" height="30" width="40" /></a>
 <a href="https://discord.gg/sspider99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sspider99" height="30" width="40" /></a>
 </p>
